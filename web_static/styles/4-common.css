@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-flow: column;
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1000px;
+    min-width: 75%;
+    margin: 30px auto 30px auto;
+}
